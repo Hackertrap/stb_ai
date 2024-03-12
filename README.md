@@ -1,1 +1,1 @@
-# stb_ai
+# Stable diffusion Ai with google colab
